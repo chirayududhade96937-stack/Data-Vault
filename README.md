@@ -14,7 +14,7 @@ Analysed 1988–2024 Australian energy trade data and forecasted petroleum expor
 * [Loan Default Risk Prediction](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/4#issue-3935028202) – Python + Logistic Regression | Predictive Modeling
 Built an interpretable credit-risk model using SMOTE and RFE, achieving ~62% recall on high-risk borrowers while maintaining regulatory-friendly transparency.
 
-* [Retail Sales & Operations Performance Analysis](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/2#issue-3935024534) – SQL + Excel | KPI & Trend Analytics
+* [Retail Sales & Operations Performance Analysis](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/2#issue-3935024534) – Power BI | KPI & Trend Analytics
 Analysed end-to-end retail transaction data to uncover demand seasonality, inventory mismatches, and margin leakage, enabling data-driven decisions across pricing, stock planning, and workforce allocation.
 
 
