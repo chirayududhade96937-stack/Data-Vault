@@ -1,22 +1,46 @@
 # 👋 Hi! I’m Chirayu Dudhade 
-A Data and Business Analyst with a Master’s in Business Analytics from UTS. I specialize in turning complex data into actionable insights using Power BI, SQL, and Excel, helping businesses optimize operations, detect revenue leakage, and make data-driven decisions.<br><br>I’m passionate about building interactive dashboards, analyzing customer behavior, and translating analytics into real-world business strategies. Always curious, I enjoy exploring new datasets, testing advanced models, and sharing insights that make a measurable impact.<br><br>When I’m not wrangling data, you’ll find me experimenting with visualization techniques, discovering ways to make reports more intuitive, or learning the latest in BI tools and analytics methods.
+
+Transforming complex datasets into actionable insights using Power BI, SQL, Excel, and Python. Experienced in operational analytics, revenue optimization, predictive modeling, and dashboards that drive measurable business impact.
 
 ---
 
 ## 💼 Projects
 
-* [Project Horizon](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/1#issue-3935021663): From Operational Friction to a $9.45M Target – Power BI | DAX | Strategic Analytics
-End-to-end retail growth audit uncovering $610K in operational leakage and designing a loyalty-led roadmap to scale retained revenue from $7.69M to $9.45M, translating analytical insights into executive-ready growth strategy.
+### [Project Horizon](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/1#issue-3935021663) – Power BI | DAX | Strategic Analytics
 
-* [Fuelling the Future](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/3#issue-3935026470): Australia Petroleum Export Forecasting – Tableau + Excel | Scenario-Based Forecasting
-Examined 1988–2024 Australian energy trade data and forecasted petroleum exports (2025–2029) across four geopolitical scenarios to support policy evaluation and long-term infrastructure planning.
+📈 Scaled retained revenue from $7.69M → $9.45M by uncovering $610K in operational leakage.
 
-* [Loan Default Risk Prediction](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/4#issue-3935028202) – Python + Logistic Regression | Predictive Modeling
-Built an interpretable credit-risk model using SMOTE and RFE, achieving ~62% recall on high-risk borrowers while maintaining regulatory-friendly transparency and model explainability.
+* Conducted end-to-end retail audit and designed a loyalty-led growth roadmap.
+* Built executive-ready dashboards highlighting revenue opportunities.
 
-* [Retail Sales & Operations Performance Analysis](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/2#issue-3935024534) – Power BI | KPI & Trend Analytics
-Evaluated end-to-end retail transaction data to uncover demand seasonality, inventory mismatches, and margin leakage, enabling data-driven decisions across pricing, stock planning, and workforce allocation while reducing operational blind spots across key retail KPIs.
+Tools: Power BI, DAX, Excel
 
+### [Fuelling the Future](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/3#issue-3935026470) – Tableau | Excel | Forecasting
+
+⛽ Forecasted 2025–2029 Australian petroleum exports across 4 geopolitical scenarios to support policy evaluation and infrastructure planning.
+
+* Analyzed 1988–2024 energy trade data with scenario-based modeling.
+* Developed interactive dashboards for scenario comparison.
+
+Tools: Tableau, Excel
+
+### [Loan Default Risk Prediction](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/4#issue-3935028202) – Python | Logistic Regression
+
+⚡ Built an interpretable credit-risk model achieving ~62% recall on high-risk borrowers.
+
+* Used SMOTE and RFE for balanced and transparent modeling.
+* Maintained regulatory-friendly explainability.
+
+Tools: Python, scikit-learn, pandas
+
+### [Retail Sales & Operations Performance Analysis](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/2#issue-3935024534) – Power BI | KPI & Trend Analytics
+
+📊 Identified demand seasonality, inventory mismatches, and margin leakage to optimize pricing, stock, and workforce allocation.
+
+* Reduced operational blind spots across key retail KPIs.
+* Built actionable dashboards for executive decision-making.
+
+Tools: Power BI, Excel
 
 
 ## 🌐 Socials:
@@ -48,4 +72,4 @@ Evaluated end-to-end retail transaction data to uncover demand seasonality, inve
 ---
 [![](https://visitcount.itsvg.in/api?id=chirayududhade96937-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📬 Feel free to connect or check out my projects on GitHub!
+📬 Let’s connect! Explore my projects or reach out via LinkedIn/Email to collaborate on data-driven solutions.
