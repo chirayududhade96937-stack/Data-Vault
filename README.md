@@ -1,6 +1,17 @@
 # 👋 Hi! I’m Chirayu Dudhade 
 
-Transforming complex datasets into actionable insights using Power BI, SQL, Excel, and Python. Experienced in operational analytics, revenue optimization, predictive modeling, and dashboards that drive measurable business impact.
+I’ve always been the person who asks “Why?” until I find a solid answer. That curiosity led me to complete my Master’s in Business Analytics at UTS and dive head-first into the world of data.
+
+To me, data isn’t just rows and columns—it’s a story waiting to be told. I specialize in finding the “So What?” in complex datasets. Whether uncovering $610K in revenue leakage or forecasting the next five years of energy exports, my goal is to turn “interesting numbers” into profitable decisions.
+
+What I do:
+
+* Bridge the gap: I speak both Data and Business. I can write the SQL query to pull the numbers and explain what they mean for the bottom line.
+* Build for clarity: Obsessed with clean, intuitive dashboards. If a stakeholder can’t understand a Power BI report in 10 seconds, I haven’t done my job.
+* Solve puzzles: From predictive modeling in Python to process improvement in retail, I love structuring messy business problems into clear, data-driven solutions.
+
+When I’m not in a spreadsheet:
+You’ll find me experimenting with visualization techniques, keeping up with the latest BI tools, or exploring Sydney’s best coffee spots. ☕
 
 ---
 
@@ -8,40 +19,117 @@ Transforming complex datasets into actionable insights using Power BI, SQL, Exce
 
 ### [Project Horizon](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/1#issue-3935021663) – Power BI | DAX | Strategic Analytics
 
-📈 Scaled retained revenue from $7.69M → $9.45M by uncovering $610K in operational leakage.
+📌 **Problem Statement**
 
-* Conducted end-to-end retail audit and designed a loyalty-led growth roadmap.
-* Built executive-ready dashboards highlighting revenue opportunities.
+The retail business was losing $610K in retained revenue due to operational inefficiencies and loyalty gaps. Leadership lacked clear insights to act strategically.
 
-Tools: Power BI, DAX, Excel
+🛠️ **Data Stack**
+
+* Tools: Power BI, DAX, Excel
+* Skills: ETL, DAX calculations, KPI tracking, Stakeholder Communication
+
+🚀 **The Solution**
+
+1. Extraction: Pulled millions of transactional rows from SQL databases.
+2. Transformation: Cleaned data and built a Star Schema optimized for reporting.
+3. Analysis: Answered the core question: “Where are revenue leaks occurring and how can loyalty improve retention?”
+
+📈 **Impact**
+
+* Insight 1: Identified $610K in revenue leakage from misaligned pricing and loyalty incentives.
+* Insight 2: Designed a roadmap that could scale retained revenue from $7.69M → $9.45M.
+
+💡 **Recommendations**
+
+"Advised leadership to implement a loyalty-led growth program, adjust pricing, and optimize inventory allocation."
+
+---
 
 ### [Fuelling the Future](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/3#issue-3935026470) – Tableau | Excel | Forecasting
 
-⛽ Forecasted 2025–2029 Australian petroleum exports across 4 geopolitical scenarios to support policy evaluation and infrastructure planning.
+📌 **Problem Statement**
 
-* Analyzed 1988–2024 energy trade data with scenario-based modeling.
-* Developed interactive dashboards for scenario comparison.
+Policy makers lacked a clear forecast of Australia’s petroleum exports under multiple geopolitical scenarios, making long-term planning difficult.
 
-Tools: Tableau, Excel
+🛠️ **Data Stack**
+
+* Tools: Tableau, Excel
+* Skills: Scenario modeling, Data Visualization, Forecasting
+
+🚀 **The Solution**
+
+1. Extraction: Collected historical trade data from 1988–2024.
+2. Transformation: Structured data for scenario-based modeling.
+3. Analysis: Answered the core question: “How will petroleum exports evolve under different geopolitical conditions?”
+
+📈 **Impact**
+
+* Insight 1: Predicted exports for 2025–2029 under 4 distinct scenarios.
+* Insight 2: Enabled policy makers to evaluate infrastructure planning and risk mitigation strategies.
+
+💡 **Recommendations**
+
+"Suggested scenario-based planning for energy infrastructure investment and policy adjustments to mitigate export risks."
+
+---
 
 ### [Loan Default Risk Prediction](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/4#issue-3935028202) – Python | Logistic Regression
 
-⚡ Built an interpretable credit-risk model achieving ~62% recall on high-risk borrowers.
+📌 **Problem Statement**
 
-* Used SMOTE and RFE for balanced and transparent modeling.
-* Maintained regulatory-friendly explainability.
+The bank needed a model to identify high-risk borrowers while keeping the model interpretable for regulatory compliance.
 
-Tools: Python, scikit-learn, pandas
+🛠️ **Data Stack**
+
+* Tools: Python, scikit-learn, pandas
+* Skills: Predictive Modeling, SMOTE, Feature Selection, Model Explainability
+
+🚀 **The Solution**
+
+1. Extraction: Pulled customer loan and repayment histories from SQL.
+2. Transformation: Cleaned data, handled imbalances with SMOTE.
+3. Analysis: Built a Logistic Regression model using RFE for feature selection.
+
+📈 **Impact**
+
+* Insight 1: Achieved ~62% recall on high-risk borrowers.
+* Insight 2: Model transparency ensured regulatory-friendly reporting.
+
+💡 **Recommendations**
+
+"Recommended risk scoring integration into loan approval workflow and continuous monitoring of high-risk borrowers."
+
+---
 
 ### [Retail Sales & Operations Performance Analysis](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/2#issue-3935024534) – Power BI | KPI & Trend Analytics
 
 📊 Identified demand seasonality, inventory mismatches, and margin leakage to optimize pricing, stock, and workforce allocation.
 
-* Reduced operational blind spots across key retail KPIs.
-* Built actionable dashboards for executive decision-making.
+📌 **Problem Statement**
 
-Tools: Power BI, Excel
+Retail operations suffered from inventory mismatches, margin leakage, and blind spots in key KPIs, causing missed revenue opportunities.
 
+🛠️ **Data Stack**
+
+* Tools: Power BI, Excel
+* Skills: KPI Tracking, Trend Analysis, Operational Analytics
+
+🚀 **The Solution**
+
+1. Extraction: Consolidated end-to-end sales, inventory, and workforce data.
+2. Transformation: Cleaned and structured datasets for dashboard reporting.
+3. Analysis: Answered the core question: “Where are operational inefficiencies impacting revenue?”
+
+📈 **Impact**
+
+* Insight 1: Identified patterns in demand seasonality and inventory mismatches.
+* Insight 2: Enabled data-driven decisions in pricing, stock planning, and workforce allocation.
+
+💡 **Recommendations**
+
+"Advised management on stock optimization, margin protection strategies, and real-time KPI tracking dashboards."
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chirayu.dudhade) 
