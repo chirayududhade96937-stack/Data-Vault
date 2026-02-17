@@ -6,11 +6,11 @@ To me, data isn’t just rows and columns—it’s a story waiting to be told. I
 
 **What I do:**
 
-* Bridge the gap: I speak both Data and Business. I can write the SQL query to pull the numbers and explain what they mean for the bottom line.
-* Build for clarity: Obsessed with clean, intuitive dashboards. If a stakeholder can’t understand a Power BI report in 10 seconds, I haven’t done my job.
-* Solve puzzles: From predictive modeling in Python to process improvement in retail, I love structuring messy business problems into clear, data-driven solutions.
+* **Bridge the gap:** I speak both Data and Business. I can write the SQL query to pull the numbers and explain what they mean for the bottom line.
+* **Build for clarity:** Obsessed with clean, intuitive dashboards. If a stakeholder can’t understand a Power BI report in 10 seconds, I haven’t done my job.
+* **Solve puzzles:** From predictive modeling in Python to process improvement in retail, I love structuring messy business problems into clear, data-driven solutions.
 
-When I’m not in a spreadsheet:
+**When I’m not in a spreadsheet:**
 You’ll find me experimenting with visualization techniques, keeping up with the latest BI tools, or exploring Sydney’s best coffee spots. ☕
 
 ---
