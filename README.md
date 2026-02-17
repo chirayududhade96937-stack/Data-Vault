@@ -4,7 +4,7 @@ I’ve always been the person who asks “Why?” until I find a solid answer. T
 
 To me, data isn’t just rows and columns—it’s a story waiting to be told. I specialize in finding the “So What?” in complex datasets. Whether uncovering $610K in revenue leakage or forecasting the next five years of energy exports, my goal is to turn “interesting numbers” into profitable decisions.
 
-What I do:
+**What I do:**
 
 * Bridge the gap: I speak both Data and Business. I can write the SQL query to pull the numbers and explain what they mean for the bottom line.
 * Build for clarity: Obsessed with clean, intuitive dashboards. If a stakeholder can’t understand a Power BI report in 10 seconds, I haven’t done my job.
